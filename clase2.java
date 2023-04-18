@@ -6,5 +6,6 @@ public class clase2 {
         System.out.println("pendejadas 1");
         System.out.println("pendejadas 3");
         System.out.println("pendejadas 4");
+        System.out.println("pendejadas 4");
     }
 }
