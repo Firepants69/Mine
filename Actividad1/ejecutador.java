@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class test {
+public class ejecutador {
     public static void main(String[] args) {
         Empleado_fijo e1 = new Empleado_fijo(0);
         Empleado_Temporal e2 = new Empleado_Temporal(0);
